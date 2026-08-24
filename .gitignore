@@ -1,0 +1,9 @@
+.env
+.yarn/
+.windsurf
+.claude
+.idea
+.agents
+dist/
+src/generated
+.pnp.*
